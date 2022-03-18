@@ -2,8 +2,10 @@
 
 ```
 Queen Elizabeth II marked her ceremonial birthday Saturday with the traditional
-"Trooping the Color" parade in the heart of London and 23-month-old Prince George made his debut on the Buckingham Palace balcony.
-The queen turned 89 on April 21, her actual birth date, which is traditionally marked in private, with a public celebration held in June,
+"Trooping the Color" parade in the heart of London and 
+23-month-old Prince George made his debut on the Buckingham Palace balcony.
+The queen turned 89 on April 21, her actual birth date, 
+which is traditionally marked in private, with a public celebration held in June,
 when London's fickle weather is more likely to be favorable.
 ```
 
@@ -14,11 +16,13 @@ when London's fickle weather is more likely to be favorable.
 
 * held..?
   - hold / held / held
+  ```
   18.	타동사 [VN 주로 수동태로]
   (회의시합 등을) 하다[열다/개최하다]
   The meeting will be held in the community centre. 
   그 회의는 지역 문화회관에서 열릴 것이다. 
-
+  ```
+  
 * key Expression
   - They say / People say / It is said
     * It is said that she is 110 years old(by them / by people). (그녀는 110세 래요) 
