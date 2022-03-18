@@ -19,5 +19,9 @@ Happiness got better as income rose but the effect leveled out at $75,000.
   - well-being : 안녕 (emotional well-being 정서적 안녕 = 정서적 안정감)
   - rise / rose / risen
 
+* key Expression
+  - They say / People say / It is said
+    * It is said that she is 110 years old. (그녀는 110세 래요) 
+
 * comment
   - wish I were my income around $75,000 😢
