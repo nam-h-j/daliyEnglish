@@ -11,7 +11,7 @@ when London's fickle weather is more likely to be favorable.
 
 * keywords
   - Trooping the Color : 군기분열식, 여왕의 생일을 축하하는 기마병, 근위병의 행진
-    https://www.youtube.com/watch?v=6DGNtgDV2R8 <-- 💂🏻‍♀️
+    - https://www.youtube.com/watch?v=6DGNtgDV2R8 <-- 💂🏻‍♀️
   - in the heart of London : 런던의 중심가 정도로 해석
   - debut : 공식 석상에서 처음 모습을 드러내는 것'
   - fickle : 변덕스러운
