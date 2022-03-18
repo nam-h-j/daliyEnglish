@@ -21,7 +21,7 @@ Happiness got better as income rose but the effect leveled out at $75,000.
 
 * key Expression
   - They say / People say / It is said
-    * It is said that she is 110 years old. (그녀는 110세 래요) 
+    * It is said that she is 110 years old(by them / by people). (그녀는 110세 래요) 
 
 * comment
   - wish I were my income around $75,000 😢
