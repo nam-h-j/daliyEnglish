@@ -20,4 +20,4 @@ Happiness got better as income rose but the effect leveled out at $75,000.
   - rise / rose / risen
 
 * comment
-  - wish I were my income up to $75,000 😢
+  - wish I were my income around $75,000 😢
