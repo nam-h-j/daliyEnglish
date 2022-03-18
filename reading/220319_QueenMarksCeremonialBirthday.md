@@ -12,20 +12,19 @@ when London's fickle weather is more likely to be favorable.
 * keywords
   - Trooping the Color : 군기분열식(열병식 같은), 여왕의 생일을 축하하는 기마병, 근위병의 행진
   - in the heart of London : 런던의 중심가 정도로 해석
-  - debut : 공식 석상에서 처음 모습을 드러내는 것
+  - debut : 공식 석상에서 처음 모습을 드러내는 것'
+  - fickle : 변덕스러운
+  - favorable : 양호한
 
 * held..?
   - hold / held / held
   ```
-  18.	타동사 [VN 주로 수동태로]
+  18. 타동사 [VN 주로 수동태로]
   (회의시합 등을) 하다[열다/개최하다]
   The meeting will be held in the community centre. 
   그 회의는 지역 문화회관에서 열릴 것이다. 
+  (naver dictionary)
   ```
   
-* key Expression
-  - They say / People say / It is said
-    * It is said that she is 110 years old(by them / by people). (그녀는 110세 래요) 
-
 * comment
-  - wish I were my income around $75,000 😢
+  - honestly, I didn't know about the 'hold' has meant so many 😳
