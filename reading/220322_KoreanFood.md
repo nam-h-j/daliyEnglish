@@ -34,8 +34,9 @@ contain vitamins and minerals.
   - homegrown : 토종의
   - iodine : 요오드
   - obesity : 비만
-  - wound : 상처, 부상]
+  - wound : 상처, 부상
   - Shiitake mushrooms : 표고버섯
+  - tout : 높이 평가하다, 장점을 내세우다
   - 
   
 * comment
