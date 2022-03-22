@@ -19,11 +19,22 @@ The Huffington Post ran an articel on superfoods in 2013, in which shiitake
 mushrooms were mentioned as one of the best sources of vitamin D.
 
 * Kimchi
-Kimchi was listed as one of the World's Healthiest Foods by Health Maga 
+Kimchi was listed as one of the World's Healthiest Foods by Health Magazine
+in 2008. Teh articel touted kimchi as a "high-fiber, low-fat" food that was
+part of the reason for Korea's relatively low obesity rate.
+
+* Ginseng
+The Switzerland-based Global Health Lab publish an article on the benefits
+of ginseng. Ginseng has traditionally been used as medicine, and its roots
+contain vitamins and minerals.
 ```
 
 * keywords
   - Gain recognition : 인정을 받다
+  - homegrown : 토종의
+  - iodine : 요오드
+  - obesity : 비만
+  - wound : 상처, 부상
   
 * comment
-  -  😳
+  - 
