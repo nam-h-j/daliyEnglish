@@ -6,6 +6,12 @@ health-conscious Koreans, who are known for catching on fast to new
 global trends.
 The term "superfood" appeared in the 2007 book "SuperFoods Rx,"
 written by renowned American ophthalmologist Steven Pratt.
+The author outlined 14 functional foods including blueberries,
+tomatoes and wild salmon that should be eaten in combination with
+otehr foods for maximum health benfits.
+Now "superfood" no longer refers to specific food items.
+The word is considered an effective marketing tool to lure consumers
+willing to spend big on healthy eating.
 
 ```
 
