@@ -8,7 +8,7 @@ Instead, they're watching shows on their smartphones. This has led to the birth 
 
 Web dramas, consisting of 10- to 15-minute-long episode available only on the interney, started out as a marketing tool for large conglomerates and public organizations.
 
-But they're now becoming mainstreame.
+But they're now becoming mainstream.
 
 The government unveiled a plan to nurture the new genre as a driver of hallyu, and major broadcasters have already jumped into the game.
 
