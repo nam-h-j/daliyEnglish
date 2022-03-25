@@ -31,7 +31,9 @@ liven up its Web-based content, mainly through drama series.
   - consist of : -으로 구성되다
   - conglomerate : 거대 복합 기업
   - unveil : 베일(덮개)를 벗기다
-  - 
-
+  - nurture : 양성하다, 육성하다
+  - memorandum of understanding : 양해각서
+  - liven up : 살리다, 활기를 띄다
+  
 * comment
-  - 
+  - um... Honestly, I'm never watched Web-based dramas before... am I old-fashion?
