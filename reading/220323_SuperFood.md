@@ -16,13 +16,14 @@ willing to spend big on healthy eating.
 ```
 
 * keywords
-  - Gain recognition : 인정을 받다
-  - homegrown : 토종의
-  - iodine : 요오드
-  - obesity : 비만
-  - wound : 상처, 부상
-  - Shiitake mushrooms : 표고버섯
-  - tout : 높이 평가하다, 장점을 내세우다
+  - permanent fixture : 쇼핑백에 꼭 있는 것(꼭 사는 물건)
+  - health-conscious : 건강을 의식하는
+  - catch on (v) to : ~를 따라잡다
+  - renowned : 저명한, 유명한(=famous)
+  - ophthalmologist : 안과의사(=eye doctor)
+  - in combination with : ~와 함께
+  - lure : 유혹하다, 끌어들이다
+  - spend big : 돈을 많이 쓰다.
 
 * comment
-  - I think Korean grilled meats are better than those but not for health 🐷
+  - I usually spend big on diet foods and fresh foods reason why the commercial lure me all day long on the internet. but I'm still obese. 🐷🐷🐷🐷🐷
