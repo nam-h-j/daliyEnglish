@@ -1,4 +1,4 @@
-## Web-based minisereies gaining populariry
+## Web-based minisereies gaining popularity
 
 ```
 A new trend has emerged in the drama industry in South Korea,
