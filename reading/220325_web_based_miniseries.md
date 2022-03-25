@@ -18,6 +18,7 @@ The Korean Creative Content Agency recently signed a meorandum of understanding 
 
 * keywords
   - -savvy : -에 능한, 정통한
+  - medium : 
   - lead to : ~로 이어지다, ~의 결과를 낳는다
   - consist of : -으로 구성되다
   - conglomerate : 거대 복합 기업
