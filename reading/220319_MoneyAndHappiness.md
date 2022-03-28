@@ -1,12 +1,12 @@
 ## Money and Happiness
 
-```
+***
 They say money can't buy happiness. They're wrong. At least up to a point.
 Researchers said people's emotional well-being -happiness- increases along with their income up to about $75,000
 The researchers reviewed surveys of 450,000 Americans conducted in 2008 and 2009.
 The surveys included questions on people's day-to-day happiness and their overall life satisfaction.
 Happiness got better as income rose but the effect leveled out at $75,000.
-```
+***
 
 * keywords
   - up to a point : 어느 정도까지는
