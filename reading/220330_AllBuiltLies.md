@@ -14,8 +14,3 @@ Every cla ss was recorded and every conversation is ***over-heard.*** We were ne
   - (be) devoted to : ~애 헌신하는
   - meet the approval : 승인을 받아야 하는
   - over-hear : 엿듣다(도청)
-  
-* Expression
-  - go see a movie
-  - go the movies
-  - go catch a flick(구어체)
