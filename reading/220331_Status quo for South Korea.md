@@ -10,4 +10,7 @@ Korea's top-ranked Seoul National University fell from 4th to 6th, Pohang Univer
 - keywords
   - status quo : 현상유지
   - virtual : 사실상의
-  - retain : 유지하다 recruit ~ retain (모집 ~ 유지)
+  - retain : 유지하다 recruit & retain (모집 & 유지)
+  - top-rank(= first rate)
+  - satisfactory : 만족
+  - represented : 대표되는
