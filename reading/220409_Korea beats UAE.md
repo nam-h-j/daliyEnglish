@@ -23,4 +23,4 @@ World Cup appearance.
     - They quickly sought to distance themselves from the protesters.
     5. ...을 구하는(얻으려는)(행위) (-seeking)\[형용사, 명사에서\]
     - attention-seeking behaviour
-  - consercutive : 연속적인
+  - consercutive :
