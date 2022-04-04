@@ -12,3 +12,7 @@ After Jobs's passing, the Washington Post published an articel titled "Mark Roth
   - final days : 죽기 전 날들
   - abstract artist : 추상화가
   - would : 만약, 가정법
+  - quality time : 귀중한 시간(보통 퇴근 후 가족들과 보내는 시간을 표현할때 자주 쓰인다)
+  - busy ~ing : ~하느라 바쁜
+  - try out : 시도해보다
+  - be infatuated by~ : ~에 빠지다. 열중하다.
