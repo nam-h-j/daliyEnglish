@@ -13,5 +13,3 @@ The walk, which made national headlines, marks the second long-distance march fo
   - raise awareness for : ~에 대한 인식을 고취하다.
   - Cerebral Palsy : 뇌성마비
   - make national headlines : 국내에 대서 특필되다.
-
-- [Source Video](https://www.youtube.com/watch?v=nkHLKLWqLf4&list=PL-LHnMMtMtkDTZgUl8hPtIZmhNvCXaXTm&index=8)
