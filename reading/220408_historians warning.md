@@ -18,7 +18,10 @@ The letter came after Abe **_failed to_** apologize for the system fo sexsual sl
   - issue an open letter : 공개서한을 발표하다
   - denouncing : 비난하다
   - right-wing : 우익의
+    - right-handed : 오른손잡이
+    - right-angle : 직각의
+      - a right-angle triangle : 직각삼각형
   - conservative : 보수적인
-  - fail to verb : verb를 못하다, 안하다.
+  - fail to verb : verb를 못하다.
   - wartime artocities : 전시 잔학행위, 전시 만행
   - the joint metting of the U.S. Congress : 미 의회 상하원 합동회의
