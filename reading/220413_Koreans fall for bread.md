@@ -19,3 +19,4 @@ Bread, which arrived in Korea through Japan only in the 19th century, is fast em
   - alternative to ~ : ~의 대안
   - consumption : 소비, 소비량
   - solid rise : 탄탄한 증가세
+  - porridge : 죽
