@@ -5,7 +5,7 @@
 Industry pundits expected Web-based dramas to gain popularity, **_as_** more people are opting to watch shorter content anytime and anywhere, is this era of "snack culture."
 
 However, the filed is still in its initial stage and lacks a profit model, they point out.
-``
+
 Most production companies barely cover their production costs, which usally exceed 100 million won, through corporate sponsorship and advertisements.
 
 In terms of profit, they receive less than 20 million won from portal websites for providing their content.
