@@ -50,3 +50,8 @@ Gracia told, summing up a major problem facing Chinese authorities \_ how to pre
       - (팀이나 선수의 대진을)추첨식 시합
       - 인기를 끄는 사람이나 물건
       - (담배연기를) 빨아들이기
+- Expression
+  - 문제에 직면하다
+    - a major problem facing Chinese authorities
+    - a major problem Chinese authorities are facing
+    - a major problem Chinese authorities are faced with
